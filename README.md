@@ -1,2 +1,2 @@
 # test
-This is first line
+This is first line from master
